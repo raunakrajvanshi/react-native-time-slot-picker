@@ -1,9 +1,8 @@
 # react-native-time-slot-picker
 # demo
-
-
+{/*
 import React, { Component } from 'react';
-import {  Platform, StyleSheet, Text, View} from 'react-native';
+import { Platform, StyleSheet, Text, View } from 'react-native';
 import TimeSlotPicker from './src/TimeSlotPicker';
 
 const platform = Platform.select({
@@ -19,7 +18,6 @@ export default class App extends Component {
       currentDate: new Date(),
       daySection: this.sections(),
       section: 12,
-      
     }
   }
 
@@ -95,3 +93,4 @@ const styles = StyleSheet.create({
     backgroundColor: '#484848'
   }
 });
+*/}
